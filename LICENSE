@@ -1,21 +1,109 @@
-MIT License
 
-Copyright (c) 2026 AnonymousLearner313💚
+# Universal Non-Commercial Open Knowledge & Code License
+(U-NOKL v2026.7)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2026 and Beyond (2026-Present)
+Original Author and Intellectual Property Owner: AliBH-ali
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Article 1: Definitions and Scope of Self-Containment
+1. "The Work": Refers to all digital assets, software code, scripts, algorithms, books, articles, designs, educational materials, and derivative works created by the Author AliBH-ali and deposited in this repository or any of its branches, or any copied, transferred, modified, or extracted version thereof, wherever located, stored, or hosted.
+2. "Commercial Exploitation": Means any act targeting or resulting in financial gain or commercial benefit (directly or indirectly), including without limitation: sale, leasing, charging access fees, operating as Software-as-a-Service (SaaS), inclusion in paid packages or paid training materials, or use in feeding, fine-tuning, or training artificial intelligence models to generate for-profit products or services.
+3. "Deemed Acceptance and Contractual Agreement": Any downloading, copying, executing, deploying, or using of The Work constitutes an explicit, irrevocable, and legally binding acceptance of all terms and conditions of this License.
+
+### Article 2: Conditional Grant and Strict Restrictions
+The public is granted a worldwide, royalty-free, non-exclusive, and revocable license to use, reproduce, and modify The Work strictly for personal, research, and academic purposes, subject to the following strict limitations:
+
+1. Prohibition of Commercial Exploitation and Strict Physical Printing Rules:
+   - Any commercial exploitation or conversion of The Work (or any part thereof) into a profit-making product is strictly prohibited.
+   - Exception to Physical/Paper Printing: Individuals, groups, and entities may print and distribute physical copies strictly at "Net Direct Cost" (exclusively limited to out-of-pocket costs of paper, ink, binding, and direct shipping), without adding any administrative fees, operational overhead, labor wages, or hidden profit margins.
+   - Requirement for Cost-Based Printing: The following statement must be clearly printed on the outer cover: *"Distributed strictly at net direct cost under the U-NOKL license by Author AliBH-ali; commercial resale is strictly prohibited."*
+   - The use of self-publishing platforms (such as Amazon KDP) or commercial publishers is strictly prohibited if platform cuts or publisher fees include a commercial profit margin exceeding the net direct cost, unless prior written and documented authorization is obtained from the Author.
+
+2. Preservation of Rights, Share-Alike, and Derivative Works:
+   - The copyright notice and the full text of this License must be preserved without alteration or deletion in all copies and derivative works.
+   - Limited academic textual quotation is permitted, provided explicit and clear attribution is given to the Author (AliBH-ali).
+   - Any derivative, modified, translated, or aggregated work built upon The Work must be published entirely free of charge and exclusively under the terms of this License. Embedding or bundling The Work into proprietary or closed-source software packages is strictly prohibited.
+
+3. Harmful Use Prohibition and AI Fair Use Waiver:
+   - The Work must not be used in malware, cyberattacks, or any activities that violate applicable local or international laws.
+   - The user explicitly waives any defense of "Fair Use", "Fair Dealing", or similar statutory exemptions when scraping data or using The Work to train, fine-tune, or develop commercial artificial intelligence models.
+   - The Author's name (AliBH-ali) may not be used to endorse or promote any derivative work without prior written consent.
+
+4. Patents and Trademarks:
+   - This License grants no rights or implied licenses to use any trademarks, service marks, logos, or patents associated with The Work.
+
+### Article 3: Automatic Termination and Legal Remedies
+This License and all rights granted hereunder shall terminate automatically and immediately by operation of law upon any breach of its terms. Any use or possession of The Work following such breach constitutes willful copyright infringement under international treaties (including the Berne Convention and WIPO Treaties), subjecting the infringer to immediate legal action, statutory damages, injunctive relief, and liability for all associated litigation costs.
+
+### Article 4: Absolute Disclaimer and Indemnification
+1. THE WORK IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+2. The user waives in advance any right to sue the Author (AliBH-ali). Under no circumstances shall the Author be liable for any civil, criminal, or material damages (direct, indirect, consequential, or incidental) arising out of the use of or inability to use The Work.
+3. The user agrees to indemnify, defend, and hold harmless the Author from and against any claims, lawsuits, demands, or liabilities brought by third parties resulting from the user's misuse of The Work, including all legal fees, court costs, and expert witness expenses.
+
+### Article 5: No Implicit Waiver
+The failure or delay of the Author (AliBH-ali) to exercise or enforce any right or legal remedy under this License or international treaties upon any breach shall not operate as a waiver of such right or remedy, and the Author retains the full right to institute legal proceedings at any time deemed appropriate.
+
+### Article 6: Governing Law, Jurisdiction, and Severability
+1. This License shall be governed by and construed in accordance with international intellectual property treaties and applicable laws. The Author reserves the sole and exclusive right to select the governing court or jurisdiction to prosecute any violator.
+2. If any provision or part of this License is held to be invalid, illegal, or unenforceable by a final judicial ruling, such invalidity shall not affect the validity or enforceability of the remaining provisions, which shall remain in full force and effect.
+
+
+
+
+-------
+
+
+
+
+
+# رخصة المعرفة المفتوحة غير التجارية وإعادة التوزيع المشروط
+(Universal Non-Commercial Open Knowledge & Code License - U-NOKL v2026.7)
+
+حقوق الطبع والنشر والملكية الفكرية محفوظة (c) 2026 وما بعدها (2026-Present)
+المؤلف وصاحب الحقوق الفكرية الأصلي: AliBH-ali
+
+---
+
+### البند الأول: التعاريف ونطاق الشمول الذاتي
+1. "المُصنَّف": كافة الأصول الرقمية، البرمجية، والمستندات النصية التي أنشأها المؤلف AliBH-ali والمودعة في هذا المستودع أو أي من فروعه، أو أي نسخة مقتبسة، منقولة، أو مستخرجة منها أينما وُجدت أو تم تخزينها أو استضافتها، وتشمل: الأكواد البرمجية، السكربتات، الخوارزميات، الكتب، المقالات، التصاميم، المواد التعليمية، والأعمال المشتقة.
+2. "الاستغلال التجاري": أي فعل يستهدف أو يؤدي إلى تحقيق عائد مالي أو منفعة تجارية (مباشرة أو غير مباشرة)، ويشمل دون حصر: البيع، التأجير، فرض رسوم الوصول، التشغيل كخدمة سحابية (SaaS)، الإدراج ضمن حزم مدفوعة أو مواد تدريبية بمقابل، أو الاستخدام في تغذية أو تدريب نماذج الذكاء الاصطناعي لتوليد منتجات أو خدمات ربحية.
+3. "القبول الحكمي والتعاقدي": يُعتبر أي تحميل، نسخ، تشغيل، أو استخدام للمُصنَّف بمثابة إيجاب وقبول صريح ونهائي لا يقبل الناقض بالالتزام بكامل أحكام هذه الرخصة.
+
+### البند الثاني: المنح المشروط والقيود الصارمة
+يُمنح الكافة رخصة عالمية، مجانية، غير حصرية، وقابلة للإلغاء لاستخدام المُصنَّف، استنساخه، وتعديله للأغراض الشخصية، البحثية، والأكاديمية حصراً، وفق القيود الآتية:
+
+1. حظر الاستغلال التجاري والضوابط الصارمة للطباعة الورقية:
+   - يُحظر حظراً مطلقاً استغلال المُصنَّف أو أي جزء منه تجارياً أو تحويله إلى منتج ربحي.
+   - يُستثنى من حظر الطباعة الورقية/الفيزيائية: الأفراد، الجماعات، والمؤسسات التي تقوم بطباعة المحتوى وتوزيعه بسعر "التكلفة المباشرة الصافية" (المقتصرة حصراً على ثمن الورق، الأحبار، التجليد، والشحن المباشر) دون إدراج أي مصاريف إدارية، تشغيلية، أجور، أو هوامش ربحية مستترة.
+   - يُشترط للطباعة بسعر التكلفة إطباق العبارة الآتية على الغلاف الخارجي بشكل واضح: *"يُوزع بسعر التكلفة المباشرة الصافية فقط بموجب رخصة U-NOKL للمؤلف AliBH-ali ويُحظر بيعه ربحياً"*.
+   - يُحظر استخدام منصات النشر التجاري الذاتي (مثل Amazon KDP) أو دور النشر التجاري إذا كانت اقتطاعات المنصة أو الناشر تتضمن هامشاً ربحياً يخرج عن التكلفة المباشرة الصافية، ما لم يُستحصل على إذن خطي مسبق وموثق من المؤلف.
+
+2. حفظ الحقوق، الترخيص بالمثل، والأعمال المشتقة:
+   - يجب الإبقاء على إشعار حقوق النشر ونص هذه الرخصة كاملاً دون تعديل أو طمس في جميع النسخ والأعمال المشتقة.
+   - يُسمح بالاقتباس الأكاديمي النصي المحدود بشرط العزو الصريح والواضح للمؤلف (AliBH-ali).
+   - أي عمل مشتق، معدل، مترجم، أو مدمج يُبنى على المُصنَّف، يجب أن يُطرح مجاناً بالكامل وتحت أحكام هذه الرخصة حصراً، ويُحظر دمج المُصنَّف في حزم برمجية أو مشاريع مغلقة المصدر (Proprietary Software).
+
+3. حظر الاستخدام الضار وإسقاط Fair Use للذكاء الاصطناعي:
+   - يُحظر استخدام المُصنَّف في البرمجيات الخبيثة، الاختراقات، أو أي أنشطة تنتهك القوانين.
+   - يُسقط المستفيد أي ادعاء بـ "الاستخدام العادل" (Fair Use) أو أي استثناءات قانونية مشابهة عند كشط البيانات (Scraping) أو استخدام المُصنَّف في تدريب أو تطوير نماذج الذكاء الاصطناعي التجارية.
+   - لا يجوز استخدام اسم المؤلف (AliBH-ali) للترويج لأي عمل مشتق دون موافقة خطية مسبقة.
+
+4. براءات الاختراع والعلامات التجارية:
+   - لا تمنح هذه الرخصة أي حقوق ضمنية لاستخدام أي علامات تجارية أو براءات اختراع مرتبطة بالمُصنَّف.
+
+### البند الثالث: الإنهاء التلقائي للحقوق والجزاءات (Automatic Termination)
+تُلغى هذه الرخصة وتُسحب جميع الصلاحيات الممنوحة فوراً وبقوة القانون بمجرد وقوع أي مخالفة لأي شرط. ويُعتبر أي استخدام أو حيازة للمُصنَّف بعد الإخلال تعدياً صريحاً وعمداً على حقوق الملكية الفكرية المحمية بموجب المعاهدات الدولية (كـ اتفاقية بيرن ومعاهدات الـ WIPO)، مما يوجب الملاحقة القضائية، والتعويض الفوري، وتحمل كافة أتعاب التقاضي.
+
+### البند الرابع: إخلاء المسؤولية المطلق وإبرام الذمة (Absolute Disclaimer & Indemnification)
+1. يُقدَّم المُصنَّف "كما هو" (AS IS) و"حسب توفرها" دون أي ضمانات صريحة أو ضمنية من أي نوع، بأقصى قدر يسمح به القانون النافذ.
+2. يتنازل المستفيد سلفاً عن حق مقاضاة المؤلف (AliBH-ali)، ولا يتحمل المؤلف أي مسؤولية مدنية، جنائية، أو مادية عن أي أضرار (مباشرة، غير مباشرة، تبعية، أو عرضية) تنشأ عن استخدام المُصنَّف أو العجز عن تشغيله.
+3. يلتزم المستفيد بتعويض وإبرام ذمة المؤلف ضد أي مطالبات أو دعاوى ترفعها أطراف ثالثة نتيجة سوء استخدامه للمُصنَّف، شاملةً كافة المصاريف القضائية وأتعاب المحاماة والخبراء.
+
+### البند الخامس: عدم التنازل الضمني (No Waiver)
+لا يُعتبر عدم ممارسة المؤلف (AliBH-ali) أو تأخره في ممارسة أي حق أو خيار قانوني تكفله هذه الرخصة أو المعاهدات الدولية عند وقوع أي انتهاك، تنازلاً منه عن ذلك الحق، ويظل له كامل الحق في اتخاذ الإجراءات القضائية في أي وقت يراه مناسباً.
+
+### البند السادس: القانون الحاكم، الاختصاص القضائي، والاستقلالية (Governing Law & Severability)
+1. تخضع هذه الرخصة ويُفسر مضمونها وفقاً للاتفاقيات والمعاهدات الدولية لحماية الملكية الفكرية والقوانين النافذة ذات الصلة، ويكون للمؤلف وحده الحق الحصري في اختيار المحكمة أو الاختصاص القضائي (Jurisdiction) لملاحقة أي مخالِف.
+2. إذا حُكم ببطلان أو عدم نفاذ أي بند أو جزئية من هذه الرخصة بموجب حكم قضائي بات، لا يمس ذلك صحة ونفاذ باقي البنود، وتظل سارية بكامل أثرها القانوني.
